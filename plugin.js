@@ -152,4 +152,29 @@ addStyleString(`body {
 
 .tw-input::placeholder {
 	color: rgba(0, 0, 0, .7) !important;
+}
+
+h1 {
+  font-size: 4rem !important;
+}
+
+h2 {
+  font-size: 2.8rem !important;
+}
+
+h3 {
+  font-size: 2.4rem !important;
+}
+
+h4 {
+  font-size: 1.6rem !important;
+}
+
+h5 {
+  font-size: 1.4rem !important;
+}
+
+h6,
+p {
+  font-size: 1.2rem !important;
 }`);
