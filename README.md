@@ -3,10 +3,10 @@
 Plugin created to make Twitch.tv look like it previously did by injecting CSS into the end of the body.
 
 ## Dark Mode
-<img src="./screens/dark.jpg" width="100%">
+<img src="https://raw.githubusercontent.com/cryptodescriptor/old-twitch/master/screens/dark.png" width="100%">
 
 ## Normal Mode
-<img src="./screens/light.jpg" width="100%">
+<img src="https://raw.githubusercontent.com/cryptodescriptor/old-twitch/master/screens/light.png" width="100%">
 
 ## Firefox Installation
 
