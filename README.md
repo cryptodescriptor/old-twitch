@@ -22,4 +22,6 @@ Plugin created to make Twitch.tv look like it previously did by injecting CSS in
 
 - Go to addons page (chrome://extensions)
 
-- Click on "Load Unpacked" in the top left then upload old_twitch.zip
+- Extract old_twitch.zip into its own dir
+
+- Click on "Load Unpacked" in the top left then upload the contents of the new dir
