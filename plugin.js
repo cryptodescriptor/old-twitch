@@ -45,7 +45,7 @@ addStyleString(`body {
 }
 
 .top-nav__menu .tw-core-button-icon--large {
-	width: 2.5rem !important;
+	width: 2.25rem !important;
 }
 
 .navigation-link {
