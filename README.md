@@ -25,3 +25,5 @@ Plugin created to make Twitch.tv look like it previously did by injecting CSS in
 - Extract old_twitch.zip into its own dir
 
 - Click on "Load Unpacked" in the top left then upload the contents of the new dir
+
+- **Do not delete the folder otherwise you will lose the plugin**
