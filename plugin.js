@@ -102,7 +102,7 @@ addStyleString(`body {
 }
 
 .top-nav__menu .tw-button-icon__icon,
-.side-nav {
+.side-nav .tw-button-icon__icon {
 	color: white !important;
 }
 
