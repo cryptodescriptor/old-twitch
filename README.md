@@ -2,6 +2,11 @@
 
 Plugin created to make Twitch.tv look like it previously did by injecting CSS into the end of the body.
 
+## Dark Mode
+<img src="./screens/darkmode.jpg" width="100%">
+
+## Normal Mode
+<img src="./screens/normalmode.jpg" width="100%">
 
 ## Firefox Installation
 
