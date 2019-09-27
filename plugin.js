@@ -70,10 +70,28 @@ addStyleString(`body {
 	border-bottom: solid 2px white !important;
 }
 
-.tw-input {
+.top-nav__menu .tw-input {
 	background: #fff !important;
 	color: black !important;
-	border: solid 2px hsla(218, 216, 222);
+	border: solid 2px transparent !important;
+}
+
+.top-nav__menu .tw-input:focus {
+	border: solid 2px rgba(0,0,0,.2) !important;
+}
+
+.side-nav .tw-input {
+	background: rgb(33, 33, 38) !important;
+	color: white !important;
+	border: solid 2px rgba(255,255,255,0.2) !important;
+}
+
+.side-nav .tw-input:focus {
+	border: solid 2px rgba(255,255,255,0.4) !important;
+}
+
+.side-nav .tw-input__icon.tw-c-text-alt-2 {
+	color: white !important;
 }
 
 .top-nav__menu .tw-input--large,
@@ -139,20 +157,36 @@ addStyleString(`body {
 	border-top: 1px solid hsla(0, 0%, 100%, 0.15) !important;
 }
 
-.tw-input::-webkit-input-placeholder {
+.top-nav__menu .tw-input::-webkit-input-placeholder {
 	color: rgba(0, 0, 0, .7) !important;
 }
 
-.tw-input:-ms-input-placeholder {
+.top-nav__menu .tw-input:-ms-input-placeholder {
 	color: rgba(0, 0, 0, .7) !important;
 }
 
-.tw-input::-ms-input-placeholder {
+.top-nav__menu .tw-input::-ms-input-placeholder {
 	color: rgba(0, 0, 0, .7) !important;
 }
 
-.tw-input::placeholder {
+.top-nav__menu .tw-input::placeholder {
 	color: rgba(0, 0, 0, .7) !important;
+}
+
+.side-nav .tw-input::-webkit-input-placeholder {
+	color: white !important;
+}
+
+.side-nav .tw-input:-ms-input-placeholder {
+	color: white !important;
+}
+
+.side-nav .tw-input::-ms-input-placeholder {
+	color: white !important;
+}
+
+.side-nav .tw-input::placeholder {
+	color: white !important;
 }
 
 h1 {
