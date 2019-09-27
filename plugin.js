@@ -101,7 +101,8 @@ addStyleString(`body {
 	background: transparent !important;
 }
 
-.top-nav__menu .tw-button-icon__icon {
+.top-nav__menu .tw-button-icon__icon,
+.side-nav {
 	color: white !important;
 }
 
