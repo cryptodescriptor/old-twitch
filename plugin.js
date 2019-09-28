@@ -255,4 +255,8 @@ h2[data-a-target="stream-title"] {
 
 .side-nav .tw-link:active {
   color: #a970ff !important;
+}
+
+.tw-root--theme-dark .tw-c-text-base {
+  color: rgb(218, 216, 222) !important;
 }`);
