@@ -9,7 +9,11 @@ Plugin created to make Twitch.tv look like it previously did by injecting CSS in
 <img src="https://github.com/cryptodescriptor/old-twitch/raw/master/screens/light.jpg" width="100%">
 
 ## Ublock Installation (No Plugin Required):
-- Pase the contents of [this](https://raw.githubusercontent.com/cryptodescriptor/old-twitch/master/ublock/out.txt) into "My Filters"
+- Click on the Ublock symbol in the top right of your browser window
+
+- Navigate to "My Filters"
+
+- Paste [this](https://raw.githubusercontent.com/cryptodescriptor/old-twitch/master/ublock/out.txt) inside
 
 ## Firefox Installation
 
