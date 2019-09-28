@@ -13,7 +13,7 @@ Plugin created to make Twitch.tv look like it previously did by injecting CSS in
 
 - Navigate to "My Filters"
 
-- Paste [this](https://raw.githubusercontent.com/cryptodescriptor/old-twitch/master/ublock/out.txt) inside
+- Paste the contents of [this](https://raw.githubusercontent.com/cryptodescriptor/old-twitch/master/ublock/out.txt) inside
 
 ## Firefox Installation
 
