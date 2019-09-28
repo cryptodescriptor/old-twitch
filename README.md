@@ -8,9 +8,12 @@ Plugin created to make Twitch.tv look like it previously did by injecting CSS in
 ## Normal Mode
 <img src="https://github.com/cryptodescriptor/old-twitch/raw/master/screens/light.jpg" width="100%">
 
+## Ublock Installation (No Plugin Required):
+- Pase the contents of [this](https://raw.githubusercontent.com/cryptodescriptor/old-twitch/master/ublock/out.txt) into "My Filters"
+
 ## Firefox Installation
 
-- Download https://github.com/cryptodescriptor/old-twitch/raw/master/firefox/make_twitch_great_again-1.9-fx.xpi
+- Download https://github.com/cryptodescriptor/old-twitch/raw/master/firefox/make_twitch_great_again-2-fx.xpi
 
 - Go to addons page (Ctrl + Shift + A)
 
