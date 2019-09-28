@@ -5,188 +5,183 @@ function addStyleString(str) {
 }
 
 addStyleString(`body {
-	font-family: Helvetica Neue, Helvetica, Arial, sans-serif !important;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif !important;
 }
 
 .tw-font-size-1 {
-	font-size: 4rem!important
+  font-size: 4rem!important
 }
 
 .tw-font-size-2 {
-	font-size: 2.8rem!important
+  font-size: 2.8rem!important
 }
 
 .tw-font-size-3 {
-	font-size: 2.4rem!important
+  font-size: 2.4rem!important
 }
 
 .tw-font-size-4 {
-	font-size: 1.6rem!important
+  font-size: 1.6rem!important
 }
 
 .tw-font-size-5 {
-	font-size: 1.4rem!important
+  font-size: 1.4rem!important
 }
 
 .tw-font-size-6 {
-	font-size: 1.2rem!important
+  font-size: 1.2rem!important
 }
 
 .tw-font-size-7 {
-	font-size: 1.1rem!important
+  font-size: 1.1rem!important
 }
 
 .tw-font-size-8 {
-	font-size: 1rem!important
-}
-
-.top-nav__menu {
-	background: rgb(100, 65, 164) !important;
+  font-size: 1rem!important
 }
 
 .top-nav__menu .tw-core-button-icon--large {
-	width: 2.25rem !important;
+  width: 2.25rem !important;
 }
 
 .navigation-link {
-	color: hsla(0,0%,100%,.7) !important;
+  color: hsla(0,0%,100%,.7) !important;
 }
 
 .navigation-link.active,
 .navigation-link:hover,
 .top-nav__external-link {
-	color: white !important;
+  color: white !important;
 }
 
 .navigation-link.active > div {
-	margin-bottom: -2px !important;
+  margin-bottom: -2px !important;
 }
 
 .navigation-link__active-indicator {
-	display: none !important;
+  display: none !important;
 }
 
 .navigation-link.active {
-	border-bottom: solid 2px white !important;
+  border-bottom: solid 2px white !important;
 }
 
 .top-nav__menu .tw-input {
-	background: #fff !important;
-	color: black !important;
-	border: solid 2px transparent !important;
+  background: #fff !important;
+  color: black !important;
+  border: solid 2px transparent !important;
 }
 
 .top-nav__menu .tw-input:focus {
-	border: solid 2px rgba(0,0,0,.2) !important;
+  border: solid 2px rgba(0,0,0,.2) !important;
 }
 
 .side-nav .tw-input {
-	background: rgb(33, 33, 38) !important;
-	color: white !important;
-	border: solid 2px rgba(255,255,255,0.2) !important;
+  background: rgb(33, 33, 38) !important;
+  color: white !important;
+  border: solid 2px rgba(255,255,255,0.2) !important;
 }
 
 .side-nav .tw-input:focus {
-	border: solid 2px rgba(255,255,255,0.4) !important;
+  border: solid 2px rgba(255,255,255,0.4) !important;
 }
 
 .side-nav .tw-input__icon.tw-c-text-alt-2 {
-	color: white !important;
+  color: white !important;
 }
 
 .top-nav__menu .tw-input--large,
 .top-nav__menu .tw-core-button--large {
-	height: 3.25rem !important;
+  height: 3.25rem !important;
 }
 
-
 .top-nav__menu .tw-core-button--secondary.tw-core-button--disabled,
-.top-nav__menu .tw-core-button--secondary	{
-	background: rgba(0, 0, 0, 0.2) !important;
-	color: white !important;
-	opacity: 1 !important;
+.top-nav__menu .tw-core-button--secondary {
+  background: rgba(0, 0, 0, 0.2) !important;
+  color: white !important;
+  opacity: 1 !important;
 }
 
 .top-nav__menu .tw-core-button--secondary.tw-core-button--disabled {
-	color: hsla(0,0%,100%,.7) !important;
+  color: hsla(0,0%,100%,.7) !important;
 }
 
 .top-nav__menu .tw-core-button--secondary:hover:not(.tw-core-button--disabled) {
-	background: rgba(0, 0, 0, 0.35) !important;
+  background: rgba(0, 0, 0, 0.35) !important;
 }
 
 .top-nav__menu button.tw-interactive .tw-c-background-base {
-	background: transparent !important;
+  background: transparent !important;
 }
 
 .top-nav__menu .tw-button-icon__icon,
 .side-nav .tw-button-icon__icon {
-	color: white !important;
+  color: white !important;
 }
 
 .side-nav,
 .side-nav__overlay-wrapper {
-	background: #19171c !important;
+  background: #19171c !important;
 }
 
 .side-nav .tw-c-text-alt {
-	color: hsla(0, 0%, 100%, 0.8) !important;
+  color: hsla(0, 0%, 100%, 0.8) !important;
 }
 
 .side-nav .tw-c-text-alt-2 {
-	color: #6e6779 !important;
+  color: #6e6779 !important;
 }
 
 .side-nav-card__title > .tw-semibold {
-	font-weight: 400 !important;
+  font-weight: 400 !important;
 }
 
 .side-nav-header {
-	color: white !important;
+  color: white !important;
 }
 
 .side-nav-card__link:hover {
-	background: #2f2f37 !important;
+  background: #2f2f37 !important;
 }
 
 .side-nav-header > .tw-upcase {
-	font-weight: 400 !important;
+  font-weight: 400 !important;
 }
 
 .side-nav .tw-border-t {
-	border-top: 1px solid hsla(0, 0%, 100%, 0.15) !important;
+  border-top: 1px solid hsla(0, 0%, 100%, 0.15) !important;
 }
 
 .top-nav__menu .tw-input::-webkit-input-placeholder {
-	color: rgba(0, 0, 0, .7) !important;
+  color: rgba(0, 0, 0, .7) !important;
 }
 
 .top-nav__menu .tw-input:-ms-input-placeholder {
-	color: rgba(0, 0, 0, .7) !important;
+  color: rgba(0, 0, 0, .7) !important;
 }
 
 .top-nav__menu .tw-input::-ms-input-placeholder {
-	color: rgba(0, 0, 0, .7) !important;
+  color: rgba(0, 0, 0, .7) !important;
 }
 
 .top-nav__menu .tw-input::placeholder {
-	color: rgba(0, 0, 0, .7) !important;
+  color: rgba(0, 0, 0, .7) !important;
 }
 
 .side-nav .tw-input::-webkit-input-placeholder {
-	color: white !important;
+  color: white !important;
 }
 
 .side-nav .tw-input:-ms-input-placeholder {
-	color: white !important;
+  color: white !important;
 }
 
 .side-nav .tw-input::-ms-input-placeholder {
-	color: white !important;
+  color: white !important;
 }
 
 .side-nav .tw-input::placeholder {
-	color: white !important;
+  color: white !important;
 }
 
 h1 {
@@ -212,4 +207,52 @@ h5 {
 h6,
 p {
   font-size: 1.2rem !important;
+}
+
+.root {
+  --color-twitch-purple:#6441a4;
+  --color-border-input-focus:#6441a4;
+}
+
+.top-nav__menu {
+  background:var(--color-twitch-purple) !important;
+}
+
+.chat-viewers-list__button {
+  color:var(--color-twitch-purple);
+}
+
+h2[data-a-target="stream-title"] {
+  font-weight: 400 !important;
+}
+
+.follow-btn__follow-btn > .tw-c-background-accent-alt-2,
+.follow-btn__follow-btn > .tw-c-background-accent-alt-2 > .tw-core-button--primary {
+  background:var(--color-twitch-purple) !important;
+}
+
+.tw-root--theme-dark body,
+.tw-root--theme-dark .channel-root__right-column,
+.tw-root--theme-dark .chat-room {
+  background: #0f0e11 !important;
+}
+
+.side-nav .tw-link { 
+  color :#bf94ff !important;
+}
+
+.side-nav .tw-link:focus {
+  color: #a970ff !important;
+}
+
+.side-nav .tw-link:hover {
+  color: #a970ff !important;
+}
+
+.side-nav .tw-link:visited {
+  color: #a970ff !important;
+}
+
+.side-nav .tw-link:active {
+  color: #a970ff !important;
 }`);
