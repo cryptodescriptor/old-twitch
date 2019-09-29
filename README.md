@@ -3,10 +3,10 @@
 Plugin created to make Twitch.tv look like it previously did by injecting CSS into the end of the body.
 
 ## Dark Mode
-<img src="https://github.com/cryptodescriptor/old-twitch/raw/master/screens/dark.jpg" width="100%">
+<img src="https://github.com/cryptodescriptor/old-twitch/raw/master/screens/dark.png" width="100%">
 
 ## Normal Mode
-<img src="https://github.com/cryptodescriptor/old-twitch/raw/master/screens/light.jpg" width="100%">
+<img src="https://github.com/cryptodescriptor/old-twitch/raw/master/screens/light.png" width="100%">
 
 ## Ublock Installation (No Plugin Required):
 - Click on the Ublock symbol in the top right of your browser window
