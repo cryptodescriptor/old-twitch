@@ -254,3 +254,9 @@ h2[data-a-target="stream-title"] {
 .tw-root--theme-dark .tw-c-text-base {
   color: rgb(218, 216, 222) !important;
 }
+
+.top-nav__menu .tw-button-icon:focus,
+.top-nav__menu .tw-button-icon:hover,
+.top-nav__menu .tw-button-icon:hover {
+	background-color: rgba(0, 0, 0, .05) !important;
+}
