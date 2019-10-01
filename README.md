@@ -20,7 +20,7 @@ Plugin created to make Twitch.tv look like it previously did by injecting CSS in
 
 ## Ublock Installation (No Extra Plugin Required):
 
-**Warning, you will have to manually update the plugin**
+**Warning! You will have to manually update!**
 
 - Click on the Ublock symbol in the top right of your browser window
 
@@ -30,7 +30,7 @@ Plugin created to make Twitch.tv look like it previously did by injecting CSS in
 
 ## Firefox Extension Installation
 
-**Warning, you will have to manually update the plugin**
+**Warning! You will have to manually update!**
 
 - Download https://github.com/cryptodescriptor/old-twitch/raw/master/firefox/make_twitch_great_again-2.2-fx.xpi
 
@@ -40,7 +40,7 @@ Plugin created to make Twitch.tv look like it previously did by injecting CSS in
 
 ## Chrome Extension Installation
 
-**Warning, you will have to manually update the plugin**
+**Warning! You will have to manually update!**
 
 - Download https://github.com/cryptodescriptor/old-twitch/raw/master/chrome/old_twitch.zip
 
