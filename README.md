@@ -20,7 +20,9 @@ Plugin created to make Twitch.tv look like it previously did by injecting CSS in
 
 <hr>
 
-***Stylus is the only method provided for automatic updates! If you choose any of the following methods, you will have to manually update if Twitch changes anything!***
+**Stylus is the only method provided for automatic updates! If you choose any of the following methods, you will have to manually update if Twitch changes anything!**
+
+<hr>
 
 ## Ublock Installation (No Extra Plugin Required):
 
