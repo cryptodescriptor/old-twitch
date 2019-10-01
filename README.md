@@ -1,6 +1,6 @@
 # Make Twitch Great Again
 
-Plugin created to make Twitch.tv look like it previously did by injecting CSS into the end of the body.
+Plugin created to make Twitch.tv look like it previously did by injecting CSS into the page.
 
 ## Dark Mode
 <img src="https://github.com/cryptodescriptor/old-twitch/raw/master/screens/dark.png" width="100%">
