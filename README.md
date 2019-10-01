@@ -18,7 +18,9 @@ Plugin created to make Twitch.tv look like it previously did by injecting CSS in
 
 - Install style from here https://userstyles.org/styles/175900/make-twitch-great-again
 
-> **Stylus is the only method provided for automatic updates! If you choose any of the following methods, you will have to manually update if Twitch changes anything!**
+<hr>
+
+**Warning!** Stylus is the only method provided for automatic updates! If you choose any of the following methods, you will have to manually update if Twitch changes anything!
 
 ## Ublock Installation (No Extra Plugin Required):
 
