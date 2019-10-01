@@ -22,6 +22,8 @@ Plugin created to make Twitch.tv look like it previously did by injecting CSS in
 
 **Warning!** Stylus is the only method provided for automatic updates! If you choose any of the following methods, you will have to manually update if Twitch changes anything!
 
+<hr>
+
 ## Ublock Installation (No Extra Plugin Required):
 
 - Click on the Ublock symbol in the top right of your browser window
