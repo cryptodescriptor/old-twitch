@@ -18,9 +18,9 @@ Plugin created to make Twitch.tv look like it previously did by injecting CSS in
 
 - Install style from here https://userstyles.org/styles/175900/make-twitch-great-again
 
-## Ublock Installation (No Extra Plugin Required):
+**Stylus is the only method provided for automatic updates! If you choose any of the following methods, you will have to manually update if Twitch changes anything!**
 
-**Warning! You will have to manually update!**
+## Ublock Installation (No Extra Plugin Required):
 
 - Click on the Ublock symbol in the top right of your browser window
 
@@ -30,8 +30,6 @@ Plugin created to make Twitch.tv look like it previously did by injecting CSS in
 
 ## Firefox Extension Installation
 
-**Warning! You will have to manually update!**
-
 - Download https://github.com/cryptodescriptor/old-twitch/raw/master/firefox/make_twitch_great_again-2.2-fx.xpi
 
 - Go to addons page (Ctrl + Shift + A)
@@ -39,8 +37,6 @@ Plugin created to make Twitch.tv look like it previously did by injecting CSS in
 - Click the little cog icon dropdown then select "Install Add-on from file..."
 
 ## Chrome Extension Installation
-
-**Warning! You will have to manually update!**
 
 - Download https://github.com/cryptodescriptor/old-twitch/raw/master/chrome/old_twitch.zip
 
