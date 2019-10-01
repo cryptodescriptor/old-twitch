@@ -12,7 +12,7 @@ Plugin created to make Twitch.tv look like it previously did by injecting CSS in
 
 - Install stylus plugin [chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne), [firefox](https://addons.mozilla.org/firefox/addon/styl-us/), [opera](https://addons.opera.com/extensions/details/stylus/)
 
-- Navigate to the Stylus options page, (click the icon and click options in Firefox)
+- Navigate to the Stylus options page, (click the icon and click options)
 
 - Change the update interval to 1 hour
 
