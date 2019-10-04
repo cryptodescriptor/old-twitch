@@ -2,10 +2,11 @@
 
   "manifest_version": 2,
   "name": "Make Twitch Great Again",
-  "version": "2.3",
+  "version": "2.4",
   "default_locale": "en",
   "author": "cryptodescriptor",
   "short_name": "MTGA",
+
 
   "description": "Makes Twitch.tv look more like the old Twitch before the CSS changes.",
 

@@ -257,6 +257,6 @@ h2[data-a-target="stream-title"] {
 
 .top-nav__menu .tw-button-icon:focus,
 .top-nav__menu .tw-button-icon:hover,
-.top-nav__menu .tw-button-icon:hover {
+.top-nav__menu .tw-button-icon:active {
 	background-color: rgba(0, 0, 0, .05) !important;
 }
