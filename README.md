@@ -34,7 +34,7 @@ Plugin created to make Twitch.tv look like it previously did by injecting CSS in
 
 ## Firefox Extension Installation
 
-- Download https://github.com/cryptodescriptor/old-twitch/raw/master/firefox/make_twitch_great_again-2.4-fx.xpi
+- Download https://github.com/cryptodescriptor/old-twitch/raw/master/firefox/make_twitch_great_again-2.5-fx.xpi
 
 - Go to addons page (Ctrl + Shift + A)
 
