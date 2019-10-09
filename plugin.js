@@ -274,4 +274,9 @@ h2[data-a-target="stream-title"] {
 .video-player__container {
   bottom: 0 !important;
 }
+
+.highwind-video-player__container { 
+  bottom: 0rem !important;
+}
+
 `);
