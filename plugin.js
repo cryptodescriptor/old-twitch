@@ -276,7 +276,7 @@ h2[data-a-target="stream-title"] {
 }
 
 .highwind-video-player__container { 
-  bottom: 0rem !important;
+  bottom: 0 !important;
 }
 
 `);
