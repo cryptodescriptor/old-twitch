@@ -283,20 +283,20 @@ h2[data-a-target="stream-title"] {
   height: 1.2rem !important;
   margin-top: -.3rem !important;
   width: 1.2rem !important;
-  border: transparent 1px !important;
+  border: solid 1px transparent !important;
 }
 
 .tw-range::-ms-thumb {
   height: 1.2rem !important;
   margin-top: -.3rem !important;
   width: 1.2rem !important;
-  border: transparent 1px !important;
+  border: solid 1px transparent !important;
 }
 
 .tw-range::-webkit-slider-thumb {
   height: 1.2rem !important;
   margin-top: -.3rem !important;
   width: 1.2rem !important;
-  border: transparent 1px !important;
+  border: solid 1px transparent !important;
 }
 `);
