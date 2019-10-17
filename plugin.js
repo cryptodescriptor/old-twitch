@@ -279,24 +279,25 @@ h2[data-a-target="stream-title"] {
   bottom: 0 !important;
 }
 
+
 .tw-range::-moz-range-thumb {
   height: 1.2rem !important;
   margin-top: -.3rem !important;
   width: 1.2rem !important;
-  border: solid 1px transparent !important;
+  border: none !important;
 }
 
 .tw-range::-ms-thumb {
   height: 1.2rem !important;
   margin-top: -.3rem !important;
   width: 1.2rem !important;
-  border: solid 1px transparent !important;
+  border: none !important;
 }
 
 .tw-range::-webkit-slider-thumb {
   height: 1.2rem !important;
   margin-top: -.3rem !important;
   width: 1.2rem !important;
-  border: solid 1px transparent !important;
+  border: none !important;
 }
 `);
