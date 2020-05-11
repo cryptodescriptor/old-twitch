@@ -267,10 +267,6 @@ h2[data-a-target="stream-title"] {
 	background-color: rgba(0, 0, 0, .05) !important;
 }
 
-.whispers-threads-box__container {
-  display: none !important;
-}
-
 .video-player__container {
   bottom: 0 !important;
 }

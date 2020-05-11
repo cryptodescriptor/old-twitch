@@ -265,10 +265,6 @@ h2[data-a-target="stream-title"] {
   display: none !important;
 }
 
-.video-player__container {
-  bottom: 0 !important;
-}
-
 .highwind-video-player__container { 
   bottom: 0 !important;
 }
