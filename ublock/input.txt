@@ -162,6 +162,10 @@ body {
   color: rgba(0, 0, 0, .7) !important;
 }
 
+.top-nav__menu .navigation-link__left-border {
+  display: none !important;
+}
+
 .side-nav .tw-input::-webkit-input-placeholder {
   color: white !important;
 }
