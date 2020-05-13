@@ -36,6 +36,7 @@ twitch.tv##.top-nav__menu .tw-input::-webkit-input-placeholder:style(color: rgba
 twitch.tv##.top-nav__menu .tw-input:-ms-input-placeholder:style(color: rgba(0, 0, 0, .7) !important;)
 twitch.tv##.top-nav__menu .tw-input::-ms-input-placeholder:style(color: rgba(0, 0, 0, .7) !important;)
 twitch.tv##.top-nav__menu .tw-input::placeholder:style(color: rgba(0, 0, 0, .7) !important;)
+twitch.tv##.top-nav__menu .navigation-link__left-border:style(display: none !important;)
 twitch.tv##.side-nav .tw-input::-webkit-input-placeholder:style(color: white !important;)
 twitch.tv##.side-nav .tw-input:-ms-input-placeholder:style(color: white !important;)
 twitch.tv##.side-nav .tw-input::-ms-input-placeholder:style(color: white !important;)
