@@ -63,5 +63,5 @@ twitch.tv##.top-nav__menu .tw-button-icon:focus, .top-nav__menu .tw-button-icon:
 twitch.tv##.video-player__container:style(bottom: 0 !important;)
 twitch.tv##.highwind-video-player__container:style(bottom: 0 !important;)
 twitch.tv##.tw-range::-moz-range-thumb:style(height: 1.2rem !important; margin-top: -.3rem !important; width: 1.2rem !important; border: none !important;)
-twitch.tv##.tw-range::-ms-thumb:style(height: 1.2rem !important; margin-top: -.3rem !important; width: 1.2rem !important; border: border: none !important;)
+twitch.tv##.tw-range::-ms-thumb:style(height: 1.2rem !important; margin-top: -.3rem !important; width: 1.2rem !important; border: none !important;)
 twitch.tv##.tw-range::-webkit-slider-thumb:style(height: 1.2rem !important; margin-top: -.3rem !important; width: 1.2rem !important; border: none !important;)
