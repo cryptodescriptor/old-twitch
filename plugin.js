@@ -306,4 +306,8 @@ h2[data-a-target="stream-title"] {
   margin-top: -.3rem !important;
   width: 1.2rem !important;
   border: none !important;
+}
+
+.player-controls .tw-tooltip {
+  font-size: 1.105rem !important;
 }`);
