@@ -60,6 +60,10 @@ body {
   border-bottom: solid 2px white !important;
 }
 
+.navigation-link .tw-semibold {
+  font-weight: normal !important;
+}
+
 .top-nav__menu .tw-input {
   background: #fff !important;
   color: black !important;
@@ -111,6 +115,10 @@ body {
 .top-nav__menu .tw-button-icon__icon,
 .side-nav .tw-button-icon__icon {
   color: white !important;
+}
+
+.top-nav__menu [data-a-target=top-nav-get-bits-button] {
+  font-size: 12px !important;
 }
 
 .side-nav,

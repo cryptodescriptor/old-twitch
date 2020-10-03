@@ -66,6 +66,10 @@ addStyleString(`body {
   border-bottom: solid 2px white !important;
 }
 
+.navigation-link .tw-semibold {
+  font-weight: normal !important;
+}
+
 .top-nav__menu .tw-input {
   background: #fff !important;
   color: black !important;
@@ -117,6 +121,10 @@ addStyleString(`body {
 .top-nav__menu .tw-button-icon__icon,
 .side-nav .tw-button-icon__icon {
   color: white !important;
+}
+
+.top-nav__menu [data-a-target=top-nav-get-bits-button] {
+  font-size: 12px !important;
 }
 
 .side-nav,
@@ -271,14 +279,13 @@ h2[data-a-target="stream-title"] {
 	background-color: rgba(0, 0, 0, .05) !important;
 }
 
-.video-player__container {
-  bottom: 0 !important;
+.whispers-threads-box__container {
+  display: none !important;
 }
 
 .highwind-video-player__container { 
   bottom: 0 !important;
 }
-
 
 .tw-range::-moz-range-thumb {
   height: 1.2rem !important;
@@ -299,5 +306,4 @@ h2[data-a-target="stream-title"] {
   margin-top: -.3rem !important;
   width: 1.2rem !important;
   border: none !important;
-}
-`);
+}`);
