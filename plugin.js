@@ -136,7 +136,7 @@ addStyleString(`body {
   color: hsla(0, 0%, 100%, 0.8) !important;
 }
 
-.side-nav .tw-c-text-alt-2 {
+.side-nav .side-nav-card__metadata .tw-c-text-alt-2 {
   color: #6e6779 !important;
 }
 

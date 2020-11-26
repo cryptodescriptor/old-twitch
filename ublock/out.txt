@@ -28,7 +28,7 @@ twitch.tv##.top-nav__menu .tw-button-icon__icon,.side-nav .tw-button-icon__icon:
 twitch.tv##.top-nav__menu [data-a-target=top-nav-get-bits-button]:style(font-size: 12px !important;)
 twitch.tv##.side-nav,.side-nav__overlay-wrapper:style(background: #19171c !important;)
 twitch.tv##.side-nav .tw-c-text-alt:style(color: hsla(0, 0%, 100%, 0.8) !important;)
-twitch.tv##.side-nav .tw-c-text-alt-2:style(color: #6e6779 !important;)
+twitch.tv##.side-nav .side-nav-card__metadata .tw-c-text-alt-2:style(color: #6e6779 !important;)
 twitch.tv##.side-nav-card__title > .tw-semibold:style(font-weight: 400 !important;)
 twitch.tv##.side-nav-header:style(color: white !important;)
 twitch.tv##.side-nav-card__link:hover:style(background: #2f2f37 !important;)
