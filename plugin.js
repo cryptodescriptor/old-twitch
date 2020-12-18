@@ -310,4 +310,8 @@ h2[data-a-target="stream-title"] {
 
 .player-controls .tw-tooltip {
   font-size: 1.105rem !important;
+}
+
+button[data-a-target="user-menu-toggle"] > .tw-c-background-base {
+  background-color: transparent;
 }`);

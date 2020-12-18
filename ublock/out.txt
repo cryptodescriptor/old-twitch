@@ -68,3 +68,4 @@ twitch.tv##.tw-range::-moz-range-thumb:style(height: 1.2rem !important;  margin-
 twitch.tv##.tw-range::-ms-thumb:style(height: 1.2rem !important;  margin-top: -.3rem !important;  width: 1.2rem !important;  border: none !important;)
 twitch.tv##.tw-range::-webkit-slider-thumb:style(height: 1.2rem !important;  margin-top: -.3rem !important;  width: 1.2rem !important;  border: none !important;)
 twitch.tv##.player-controls .tw-tooltip:style(font-size: 1.105rem !important;)
+twitch.tv##button[data-a-target="user-menu-toggle"] > .tw-c-background-base:style(background-color: transparent !important;)
