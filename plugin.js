@@ -123,8 +123,13 @@ addStyleString(`body {
   color: white !important;
 }
 
-.top-nav__menu [data-a-target=top-nav-get-bits-button] {
+.top-nav__menu button[data-a-target="top-nav-get-bits-button"] {
   font-size: 12px !important;
+}
+
+.top-nav__menu button[data-a-target="top-nav-get-bits-button"] {
+  color: #ffffff !important;
+  fill: #ffffff !important;
 }
 
 .side-nav,
