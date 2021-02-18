@@ -1,3 +1,6 @@
+** This is no longer being maintained due to Twitch constantly making changes to CSS
+Feel free to fork the repo and continue development. **
+
 # Make Twitch Great Again
 
 Plugin created to make Twitch.tv look like it previously did by injecting CSS into the page.
