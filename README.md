@@ -1,4 +1,5 @@
-** This is no longer being maintained due to Twitch constantly making changes to CSS. Feel free to fork the repo and continue development. **
+**This is no longer being maintained due to Twitch constantly making changes to CSS.
+Feel free to fork the repo and continue development.**
 
 # Make Twitch Great Again
 
